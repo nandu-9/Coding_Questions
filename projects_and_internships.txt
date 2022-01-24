@@ -1,0 +1,59 @@
+
+Note: I have listed the current projects that are relevant to software engineering done by me
+
+Contributions to projects at previous company - Zentri-Studios (Role - Associate Engineer)
+
+1) Hide-And-Set : Contributions -----------------------------------------------------------------
+
+Multiplayer Implimentaion: 
+     * Main Game play design
+          * Unity Game Engine
+     * Frameworks/Services Used
+          * Nakama - Open-source: Game Backend Server by Heroic-labs
+          * Digital Ocean: For Cloud Instancing of Nakama Server
+          * Docker for in house testing of the multiplayer implimentaion
+
+Other Miscellaneous services implimented in the game:
+     * Social Sharing/Enhancement Implimentation - Facebook, Google+,
+     * Game Analytics integration
+     * Game Adsense integration
+     * Payments integration
+          * Google IAP
+          * Paytm payments (Through PAYTM API)
+
+About the game : 
+This is game project with additional multiplayer feature, where each player tries to match a tray of balls
+to have a show (similar to the game of cards) and the player with first show wins and earns the bet amout. 
+     The Game initially start with a small set of 4 balls and as the time progresses things get complicated
+and achievement rewards get enhanced.
+
+reference link - company portfolio - https://www.zentristudios.com/#portfolio
+----------------------------------------------------------------------------------------------------------
+
+2) Physics Simulation projects using Unity Game Engine(In the same previous company)
+     * Physics simulation for flight simulator.
+     * Physics simulation for forced throw trajectory
+     * Physics simulation for wind force interaction on bulk objects.
+
+----------------------------------------------------------------------------------------------------------
+
+3) Machine Learning projects/Case studies
+     * Detroit Blight Ticket Compliance (Part of the Course Project at IISc for - Introduction to computing for AI and ML)
+          The City of Detroit experience the compliance issues with the blight-ticket so the aim of the
+          project was to understand the blight data and to develop a mahcine learning model to predict blight ticket 
+          compliance by the residents of the Detroit.
+     * EDA - Case Study
+          * Uber Demand Supply Gap
+          * Walmart Retail Recommendation System Using Apriori Algorithm.
+
+---------------------------------------------------------------------------------------------------------
+4) Other Minor projects
+ * Personal Projects 
+     - Unity Game Projects
+       * ZigZang Revenge 
+          * Currently under suspension by Google Due to Copy right violations
+          * Was Published on google play on 2019
+     - Image Compressor
+     - Bulk ID Card Assembler (Python and OpenCV).
+
+-----------------------------------------------------------------------------------------------------------
