@@ -45,8 +45,9 @@ def generic_task(name, resource_A, resource_B):
     resource_B.release(name)
 
 
-# Instantiating resources
 if __name__ == "__main__":
+    
+    # Instantiating resources
     res_A = resource_A()
     res_B = resource_B()
 
